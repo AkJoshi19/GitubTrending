@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="detail_backdrop_height">210dp</dimen>
+    <dimen name="margin_image_view_right">5dp</dimen>
+
+    <dimen name="progressBarHW">30dp</dimen>
+    <dimen name="image_view_size">55dp</dimen>
+    <dimen name="row_layout_padding">10dp</dimen>
+    <dimen name="row_layout_margin_LR">10dp</dimen>
+    <integer name="max_rating_star">10</integer>
+    <dimen name="common_margin_left">10dp</dimen>
+    <dimen name="layout_margin_top">15dp</dimen>
+
+
+</resources>

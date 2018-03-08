@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">GithubTrendingApp</string>
+
+    <string name="dummy_text">Lorem Ipsum Iran Lorem</string>
+    <string name="full_name">Full Name: </string>
+    <string name="descr">Description: </string>
+    <string name="score">Score: </string>
+    <string name="watcher">Watchers: </string>
+    <string name="description">Description: </string>
+    <string name="svn_url">SVN URL: </string>
+    <string name="no_internet">No internet connection</string>
+</resources>
